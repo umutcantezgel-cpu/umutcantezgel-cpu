@@ -5,5 +5,5 @@ Wir sind spezialisiert auf die Digitalisierung von kleinen und mittelständische
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend/CMS:** Supabase, Sanity (Headless CMS)
 
-🔗 **Besuche unsere Website:** [coday.de](https://coday.de)
+🔗 **Besuche unsere Website:** [codayweb.de](https://codayweb.de)
 📧 **Kontakt:** [umut@codayweb.de](mailto:umut@codayweb.de)
